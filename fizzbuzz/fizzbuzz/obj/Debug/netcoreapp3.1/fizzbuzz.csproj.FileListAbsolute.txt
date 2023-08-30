@@ -1,0 +1,13 @@
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.csprojAssemblyReference.cache
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.csproj.CoreCompileInputs.cache
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfoInputs.cache
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfo.cs
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.exe
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.deps.json
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.json
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.dev.json
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.dll
+D:\C#\fizzbuzz\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.pdb
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.dll
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.pdb
+D:\C#\fizzbuzz\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.genruntimeconfig.cache
